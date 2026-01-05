@@ -1,4 +1,4 @@
-# Inferenza Statistica e Modelli di Regressione Lineare
+# Statistical Inference & Linear Regression Models
 
 Questo progetto rappresenta il caso studio finale per il modulo di **Inferenza Statistica con Excel**, realizzato all'interno del mio percorso di **Master Professionale in Data Analytics certificato da ProfessionAI e Alteredu**.
 
